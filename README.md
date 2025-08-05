@@ -1,2 +1,0 @@
-# teamschatextractor
-teamschatextractor
